@@ -1,0 +1,7 @@
+﻿  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\area51m\Desktop\WHALE\Builder\main.cpp(70): warning C4172: returning address of local variable or temporary: directory
+C:\Users\area51m\Desktop\WHALE\Builder\main.cpp(79): warning C4172: returning address of local variable or temporary: directory
+  All 22 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Builder.vcxproj -> C:\Users\area51m\Desktop\WHALE\x64\Release\Builder.exe
